@@ -32,4 +32,4 @@ A simple and interactive "Simon Says" game built using HTML, CSS, and JavaScript
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/simon-says-game.git
+   git clone https://github.com/sarveshy200/Simon-Says-Game.git
